@@ -11,5 +11,7 @@ github.com test smartgit
 git branch two new dev
 update dev
 
-git brach dev
+git brach dev 2
+
+branch dev add 1 line
 
