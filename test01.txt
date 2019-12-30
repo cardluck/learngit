@@ -6,3 +6,4 @@ git track update.
 git add
 add 1
 github.com test
+github.com test smartgit
