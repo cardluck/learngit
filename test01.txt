@@ -7,4 +7,4 @@ git add
 add 1
 github.com test
 github.com test smartgit
-git branch dev
+git branch two dev
