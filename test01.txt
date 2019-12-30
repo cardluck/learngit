@@ -3,3 +3,4 @@ Git is free software.
 add a word:pig.
 add a line: Hello my world.
 git track update.
+git add
